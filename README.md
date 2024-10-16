@@ -1,4 +1,4 @@
-# ngx-example
+# nginx-springb-example
 
 
 Article this is pulled from  
